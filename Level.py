@@ -1,1 +1,0 @@
-#contains all sprites (player,enemies,map...) + their interactions
