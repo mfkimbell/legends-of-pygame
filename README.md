@@ -1,4 +1,4 @@
-# Python_legendsOfPygame
+# legends-of-pygame
 A Zelda-like game (work in progress)
 
 <img width="684" alt="Screen Shot 2022-11-22 at 5 29 48 PM" src="https://user-images.githubusercontent.com/107063397/203441690-53f6ab6a-7f62-4783-a67b-2f0b860d8035.png">
